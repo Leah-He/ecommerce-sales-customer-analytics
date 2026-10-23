@@ -8,7 +8,7 @@
 
 This project analyzes historical transactions, product activity, and website traffic for an online e-commerce store (2016–2018). The objective is to understand sales performance and shopping behavior, identify conversion and retention opportunities, and translate customer segmentation into practical business recommendations.
 
-**My role:** Project Lead & Primary Technical Contributor. I independently completed the technical data-analysis work and explained the methods and findings to teammates; we developed the final presentation collaboratively.
+**My role:** Led the project's technical analysis, including data processing, feature engineering, and customer segmentation using Python and Jupyter Notebook. Coordinated team contributions to data validation, quality checks, and result interpretation, while helping teammates understand the analytical methods. Collaborated with the team to develop and present the final findings.
 
 > **Scope:** An observational, historical analysis. The recommendations are hypotheses for future testing, not proven causal impacts or implemented business improvements.
 
