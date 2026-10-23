@@ -8,7 +8,7 @@
 
 This project analyzes historical transactions, product activity, and website traffic for an online e-commerce store (2016–2018). The objective is to understand sales performance and shopping behavior, identify conversion and retention opportunities, and translate customer segmentation into practical business recommendations.
 
-**My role:** Led the project's technical analysis, including data processing, feature engineering, and customer segmentation using Python and Jupyter Notebook. Coordinated team contributions to data validation, quality checks, and result interpretation, while helping teammates understand the analytical methods. Collaborated with the team to develop and present the final findings.
+**My role:** Led the core technical analysis and coordinated team efforts in data validation, quality checks, and result interpretation. Supported teammates in understanding the methods and collaborated on the final presentation.
 
 > **Scope:** An observational, historical analysis. The recommendations are hypotheses for future testing, not proven causal impacts or implemented business improvements.
 
@@ -111,7 +111,7 @@ ecommerce-sales-customer-analytics/
 
 ## Presentation & credit
 
-The [AIBC 2026 team presentation](presentation/AIBC_2026_team_presentation.pdf)was developed collaboratively. As Project Lead, I led the core technical analysis, coordinated data validation with teammates, and guided discussions of the findings. All team members are credited on the title slide.
+The [AIBC 2026 team presentation](presentation/AIBC_2026_team_presentation.pdf) was developed collaboratively, with contributions to data validation, result interpretation, and presentation preparation. All team members are credited on the title slide.
 
 ## Limitations
 
