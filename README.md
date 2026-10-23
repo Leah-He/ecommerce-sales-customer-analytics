@@ -111,7 +111,7 @@ ecommerce-sales-customer-analytics/
 
 ## Presentation & credit
 
-The [AIBC 2026 team presentation](presentation/AIBC_2026_team_presentation.pdf) was created collaboratively after I walked the team through the underlying technical analysis. Team members are credited on its title slide. All technical analysis and implementation described above were independently completed by me.
+The [AIBC 2026 team presentation](presentation/AIBC_2026_team_presentation.pdf)was developed collaboratively. As Project Lead, I led the core technical analysis, coordinated data validation with teammates, and guided discussions of the findings. All team members are credited on the title slide.
 
 ## Limitations
 
