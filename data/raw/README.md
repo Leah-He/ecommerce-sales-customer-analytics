@@ -1,0 +1,1 @@
+Place the seven permitted source CSVs here: customers.csv, orders.csv, orders_items.csv, products.csv, products_skus.csv, traffic.csv, and transactions.csv. Raw data is omitted from the public repository pending redistribution permission.

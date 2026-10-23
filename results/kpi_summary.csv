@@ -1,0 +1,21 @@
+KPI,Value
+Total Orders,"21,358"
+Valid Sales Orders,"20,948"
+Valid Order Rate,98.08%
+Gross Successful Payments,"$1,579,872.23"
+Successful Refund Amount,"$210,601.78"
+Net Revenue,"$1,369,270.45"
+Average Order Value,$65.37
+Cancellation Rate,1.92%
+Refund Order Rate,14.91%
+Refund Amount Rate,13.33%
+Customers with Valid Orders,"14,758"
+Repeat Customers,"3,146"
+Repeat Customer Rate,21.32%
+Average Orders per Customer,1.42
+Session-to-Order Conversion Rate,0.81%
+Average Observed CLV,$92.78
+Median Observed CLV,$62.80
+Product View-to-Add to Cart Rate,10.08%
+Add to Cart-to-Checkout Rate,29.21%
+Checkout-to-Order Rate,24.66%
